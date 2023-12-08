@@ -1,4 +1,3 @@
 altair
 pandas
 streamlit
-gradio_client
